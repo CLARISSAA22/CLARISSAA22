@@ -12,7 +12,7 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=CLARISSAA22&icon=0&color=3)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->## Hi there 👋
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <!--
 **CLARISSAA22/CLARISSAA22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
